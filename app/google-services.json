@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "236216964535",
+    "project_id": "imc-calculator-c1b59",
+    "storage_bucket": "imc-calculator-c1b59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236216964535:android:6858dc2f70d80d2c484432",
+        "android_client_info": {
+          "package_name": "com.me1rel3s.imc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8H0Mu3zuks-qo25ku9GUMr-xRwSN-OK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

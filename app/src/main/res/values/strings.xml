@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">IMC Calculator</string>
+
+    //Buttons
+    <string name="bt_calculate">Calcular</string>
+
+    //Inputs
+    <string name="input_weight">Peso: Ex 70.0</string>
+    <string name="input_height">Altura: Ex 1.80</string>
+
+    //Texts
+    <string name="tv_title">Calculadora IMC</string>
+    <string name="tv_result">Resultado:</string>
+    <string name="tv_description">Digite o \'.\' para casas decimais</string>
+</resources>
